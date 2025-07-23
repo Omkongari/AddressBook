@@ -1,2 +1,2 @@
-# AddressBook
-Storing records of employees
+# Embedded projects
+
