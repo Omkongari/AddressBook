@@ -1,0 +1,21 @@
+int main() {
+    int 123var = 10;      // Invalid identifier (starts with digit)
+    int number = 314;
+    char* str = "Hello;   // Unterminated string literal
+    int a = 5;
+    int b = a + 2;
+
+    
+
+    /* This is a valid block comment */
+
+    /* This comment is not terminated
+
+    if (a == b) {
+        printf("Equal\n");
+    }
+
+    unknown@symbol;       // Unknown character '@'
+    
+    return 0;
+}
